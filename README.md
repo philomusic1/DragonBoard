@@ -23,12 +23,15 @@ Photos of the board follow Below:
 <img width="870" alt="{A506246F-CC85-49A1-A33F-0729AE343765}" src="https://github.com/user-attachments/assets/97805216-091b-443c-815a-e2356c2804c8" />
 
 Bottom Case:
+
 <img width="651" alt="{71D968B1-584D-4326-A7F6-08D7D7194AC2}" src="https://github.com/user-attachments/assets/4818be31-1af8-4c67-b212-ca9561317c85" />
 
 Top Case:
+
 <img width="567" alt="{A390DD54-7114-4BE4-962F-9672C71B40D4}" src="https://github.com/user-attachments/assets/40397d70-006a-4e1e-a7e2-0236cadb9466" />
 
 Display Cover:
+
 <img width="242" alt="{A57BC10F-1261-4ABD-AE23-2CB9848D6BF4}" src="https://github.com/user-attachments/assets/abb8e1ec-7d6f-49d8-845d-3c10069d1efd" />
 
 
