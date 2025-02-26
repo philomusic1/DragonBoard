@@ -37,11 +37,12 @@ Display Cover:
 
 ## BOM
 
-| Name                             | Qty | Price (GBP) |
-| -------------------------------- | --- | ----------- |
+| Name                             | Qty | Price (GBP)  |
+| -------------------------------- | --- | -----------  |
+| PCB                              | 1   | 08.84/w ship |
 | Gateron G Pro 3.0 Silver         | 58  | 19.90/w ship (Mechmods) |
-| Cherry mx switch sockets         | 58  | 07.30/70 (AE)       |
-| SK6812MINI-E                     | 58  | 06.00/60pc (AE)     |
+| Cherry mx switch sockets         | 58  | 02.44/70 (AE)       |
+| SK6812MINI-E                     | 58  | 02.91/100pc (AE)    |
 | Diodes 1N4148W SOD123            | 60  | 00.09/1pc (DigiKey) |
 | 100nF 0402 capacitor             | 58  | 00.09/1pc (Digikey) |
 | AO3401A Transistor               | 1   | 00.44/1pc (DigiKey) |
@@ -49,18 +50,29 @@ Display Cover:
 | 100Ω 0402 resistor               | 1   | 00.09/1pc (Digikey) |
 | 10kΩ 0402 resistor               | 2   | 00.09/1pc (Digikey) |
 | buttons Momentary                | 2   | 00.22/1pc (Digikey) |
-| 0.91" OLED SSD1306               | 2   | 01.40/1pc  (AE)     |
-| Tenstar NRF52840 2pack           | 1   | 00.96/pack (AE)     |
+| 0.91" OLED SSD1306               | 2   | 03.51/2pc  (AE)     |
+| Tenstar NRF52840 2pack           | 1   | 03.59/pack (AE)     |
 | SPDT SMT slide switches          | 2   | 00.85/1pc (Digikey) |
 | JST Headers                      | 2   | 00.09/1pc (Digikey) |
-| EC11 encoder                     | 2   | 02.14/1pc (Digikey) |
+| JST Connector                    | 2   | 00.87/5pc  (AE)     |
+| EC11 encoder                     | 2   | 02.64/5pc (Digikey) |
+| EC11 knob                        | 2   | 01.12/5pc (Digikey) |
 | Top Plate Acrylic                | 1   | Hack Club           |
 | Bottom Plate Acrylic             | 1   | Hack Club           |
 | OLED Acrylic                     | 1   | Hack Club           |
-| M2 9mm Stand Offs                | 10  | 01.66/50   (AE)     |
-| M2 12mm Stand Offs               | 4   | 01.79/50   (AE)     |
+| M2 9mm Stand Offs                | 10  | 02.02/50   (AE)     |
+| M2 12mm Stand Offs               | 4   | 02.05/50   (AE)     |
 | M2 4mm screws                    | 28  | 00.93/50   (AE)     |
-| 306080 LiPo Battery              | 2   | Not Sure whether its allowed |
-| KeyCaps                          | 1   | 10.00      (AE)     |
+| 306080 LiPo Battery              | 2   | Not Sure whether its allowed (8.35/1pc) |
+| KeyCaps                          | 1   | 14.58      (AE)     |
 
 AE = AliExpress
+
+| Name                             | Price (GBP) |
+| -------------------------------- | ----------- |
+| AliExpress                       | 36.44/w shipping (51.09 with batteries) |
+| DigiKey                          | 24.02/w shipping |
+| Mechmods                         | 19.90/w shipping |
+| JLCPCB                           | 08.84/w shipping |
+| -------------------------------- | ----------- |
+| Total                            | 89.2 (103.85 with batteries) |
