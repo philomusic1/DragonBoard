@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SofleChoc")(type "KiCad")(uri "${KIPRJMOD}/SofleChoc.pretty")(options "")(descr ""))
+  (lib (name "SofleKeyboard-footprint")(type "KiCad")(uri "${KIPRJMOD}/SofleKeyboard-footprint.pretty")(options "")(descr ""))
+)

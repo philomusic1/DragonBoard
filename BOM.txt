@@ -1,0 +1,43 @@
+Bill of materials
+
+10x 9mm M2 spacers/standoffs https://www.aliexpress.com/item/4000136343429.html?spm=a2g0o.productlist.main.51.440b1fbaORMJor&algo_pvid=84ad05db-df0e-4f02-bcef-a47b56fdfbd9&algo_exp_id=84ad05db-df0e-4f02-bcef-a47b56fdfbd9-25&pdp_ext_f=%7B%22order%22%3A%2231%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21GBP%210.76%210.57%21%21%210.93%210.70%21%40%2110000000411053422%21sea%21UK%210%21ABX&curPageLogUid=dgIAdflvld6t&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+4x 12mm M2 spacers/standoffs female threaded https://www.aliexpress.com/item/4000136343429.html?spm=a2g0o.productlist.main.51.440b1fbaORMJor&algo_pvid=84ad05db-df0e-4f02-bcef-a47b56fdfbd9&algo_exp_id=84ad05db-df0e-4f02-bcef-a47b56fdfbd9-25&pdp_ext_f=%7B%22order%22%3A%2231%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21GBP%210.76%210.57%21%21%210.93%210.70%21%40%2110000000411053422%21sea%21UK%210%21ABX&curPageLogUid=dgIAdflvld6t&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+28x 4mm M2 Screws https://mechboards.co.uk/products/m2-screws?variant=40295475740877
+
+2x Wireless Pro Micro MCUs https://www.aliexpress.com/item/1005007738886550.html?spm=a2g0o.productlist.main.1.1b847160evaiW4&algo_pvid=81ddb80c-3cf7-481a-8041-76013a417033&algo_exp_id=81ddb80c-3cf7-481a-8041-76013a417033-0&pdp_ext_f=%7B%22order%22%3A%221404%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21GBP%2112.87%210.81%21%21%21114.48%217.23%21%40%2112000042043831367%21sea%21UK%213077419795%21ABX&curPageLogUid=hbn1jWz9ottF&utparam-url=scene%3Asearch%7Cquery_from%3A#nav-review
+
+4x 12 4mm spring pin headers and sockets
+
+58x Gateron G Pro 3.0 Silver https://www.mechmods.co.uk/products/gateron-g-pro-3-0-speed-silver-switches?srsltid=AfmBOopmAttwSq-lIivtkMywSnoZXAzLhKVgg55_eYb630csKuAlf-qm
+
+58x Cherry MX keyboard switch sockets https://mechboards.co.uk/products/kailh-hotswap-sockets
+
+58x keycaps. https://www.aliexpress.com/item/1005008131935903.html?spm=a2g0o.cart.0.0.6f5338daPuBV3f&mp=1#nav-review
+
+58x SK6812 Mini leds https://mechboards.co.uk/products/rgb-smd-leds?variant=40436774011085
+
+58x 100nF Ceramic Capacitors https://www.digikey.co.uk/en/products/detail/samsung-electro-mechanics/CL05B104KP5VPNC/20498482
+
+1x AO3401A Transistor https://www.digikey.co.uk/en/products/detail/alpha-omega-semiconductor-inc/AO3401A/1855773?srsltid=AfmBOop0TV-GMCpw3A0BvIvQ_-9E-S1l2QG6252Rm3EOCz-wHZnkhGkW
+
+1x 2N7002 Transistor https://www.digikey.co.uk/en/products/detail/onsemi/2N7002/244345?srsltid=AfmBOooLYCAuFc-McRb2G2q-_TbybcY60JF4A-LBmbmXo2Le2xwZNzEv
+
+2x 0402 10k resistors https://www.digikey.co.uk/en/products/detail/samsung-electro-mechanics/RC1005F103CS/3903439
+
+1x 0402 100 resistor https://www.digikey.co.uk/en/products/detail/yageo/RC0402JR-07100RL/726415
+
+60x diodes 1N4148W SOD123 package https://www.digikey.co.uk/en/products/detail/diodes-incorporated/1N4148W-13-F/1933928?srsltid=AfmBOopYS4orYG7kQnwLuChMzM-95DkzpE7OsQPI8GFg2koGjfjdjWiF
+
+2 buttons Momentary, tactile, through-hole, 2 pins: 3x6x4.3mm. https://www.digikey.co.uk/en/products/detail/c-k/PTS636-SM25F-SMTR-LFS/10071742
+
+2 SPDT SMT slide switches https://www.digikey.co.uk/en/products/detail/nidec-copal-electronics/CUS-12TB/1124222
+
+2 JST headers https://www.digikey.co.uk/en/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626
+
+4x LiPo Batteries 306080 https://www.aliexpress.com/item/1005006257821127.html?spm=a2g0o.detail.0.0.1db2DiJoDiJov5&mp=1&pdp_npi=5%40dis%21GBP%21GBP%204.01%21GBP%204.01%21%21%21%21%21%4021038e6617405226135278433eb425%2112000036497926734%21ct%21UK%213077419795%21%213%210
+
+2x OLED Displays https://www.aliexpress.com/item/1005007069127189.html?spm=a2g0o.productlist.main.29.29e45f0e4WEA5q&algo_pvid=724fc635-3b36-456b-b1f2-a9812d56d5ec&algo_exp_id=724fc635-3b36-456b-b1f2-a9812d56d5ec-14&pdp_ext_f=%7B%22order%22%3A%2240%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21GBP%211.60%210.81%21%21%2114.21%217.18%21%40%2112000039302444376%21sea%21UK%213077419795%21ABX&curPageLogUid=14N8F0FfZoHh&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+2x ec11 encoder https://mechboards.co.uk/products/rotary-encoder

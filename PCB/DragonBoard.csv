@@ -1,0 +1,12 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW_BATT+1,SW_BATT+2";"SW_SPDT_PCM12";2;"SW_SPST";;;
+2;"SW31";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified";1;"Rotary_Encoder_Switch";;;
+3;"TH7,TH4,TH6,TH3,TH5";"HOLE_M2_TH";5;"HOLE";;;
+4;"U1";"ProMicro";1;"ProMicro";;;
+5;"JP1,JP2,JP3,JP4,JP0,JP7,JP8,JP9,JP6,JP5";"Jumper_small";10;"Jumper_NO_Small";;;
+6;"RSW1";"TACT_SWITCH_TVBP06";1;"SW_RST";;;
+7;"D1,D2,D3,D4,D5,D6,D13,D19,D25,D26,D7,D8,D9,D10,D11,D12,D27,D15,D16,D17,D18,D28,D29,D24,D20,D21,D22,D23,D14,D30";"crkbd-diode";30;"D";;;
+8;"SW1,SW3,SW13,SW14,SW19,SW21,SW23,SW26,SW27,SW12,SW18,SW24,SW4,SW5,SW8,SW10,SW9,SW16,SW6,SW7,SW30,SW11,SW22,SW17,SW29,SW15,SW2,SW20,SW28";"SK6812MINI_and_cherry";29;"SW_PUSH_LED";;;
+9;"TH1,TH2";"M2_HOLE_PCB";2;"HOLE";;;
+10;"J3";"OLED_NICEVIEW_COMBO_HDR_5Pin";1;"OLED";;;
+11;"JST_BATT2,JST_BATT1";"JST_PH_S2B-PH-K_1x02_P2.00mm_DoubleSided";2;"Conn_01x02";;;
