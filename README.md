@@ -12,8 +12,7 @@ It is designed to be a wireless Keyboard with cherry mx hotswap switches with Pe
 
 Photos of the board follow Below:
 
-<img width="184" alt="{7F8FDC28-9B85-4F68-89AB-F2F13CC8FC2F}" src="https://github.com/user-attachments/assets/8aaa86d4-a83f-4aec-a601-78d6b856f4b2" />
-
+<img width="700" alt="{7F8FDC28-9B85-4F68-89AB-F2F13CC8FC2F}" src="https://github.com/user-attachments/assets/8aaa86d4-a83f-4aec-a601-78d6b856f4b2" /
 
 <img width="819" alt="{06C12ABF-6B59-4C9F-908C-46C77E14E0C9}" src="https://github.com/user-attachments/assets/b8285abb-9c32-4b0b-9788-a424cec209bc" />
 
