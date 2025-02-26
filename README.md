@@ -35,3 +35,32 @@ Display Cover:
 <img width="242" alt="{A57BC10F-1261-4ABD-AE23-2CB9848D6BF4}" src="https://github.com/user-attachments/assets/abb8e1ec-7d6f-49d8-845d-3c10069d1efd" />
 
 
+## BOM
+
+| Name                             | Qty | Price (GBP) |
+| -------------------------------- | --- | ----------- |
+| Gateron G Pro 3.0 Silver         | 58  | 19.90/w ship (Mechmods) |
+| Cherry mx switch sockets         | 58  | 07.30/70 (AE)       |
+| SK6812MINI-E                     | 58  | 06.00/60pc (AE)     |
+| Diodes 1N4148W SOD123            | 60  | 00.09/1pc (DigiKey) |
+| 100nF 0402 capacitor             | 58  | 00.09/1pc (Digikey) |
+| AO3401A Transistor               | 1   | 00.44/1pc (DigiKey) |
+| 2N7002 Transistor                | 3   | 00.49/1pc (Digikey) |
+| 100Ω 0402 resistor               | 1   | 00.09/1pc (Digikey) |
+| 10kΩ 0402 resistor               | 2   | 00.09/1pc (Digikey) |
+| buttons Momentary                | 2   | 00.22/1pc (Digikey) |
+| 0.91" OLED SSD1306               | 2   | 01.40/1pc  (AE)     |
+| Tenstar NRF52840 2pack           | 1   | 00.96/pack (AE)     |
+| SPDT SMT slide switches          | 2   | 00.85/1pc (Digikey) |
+| JST Headers                      | 2   | 00.09/1pc (Digikey) |
+| EC11 encoder                     | 2   | 02.14/1pc (Digikey) |
+| Top Plate Acrylic                | 1   | Hack Club           |
+| Bottom Plate Acrylic             | 1   | Hack Club           |
+| OLED Acrylic                     | 1   | Hack Club           |
+| M2 9mm Stand Offs                | 10  | 01.66/50   (AE)     |
+| M2 12mm Stand Offs               | 4   | 01.79/50   (AE)     |
+| M2 4mm screws                    | 28  | 00.93/50   (AE)     |
+| 306080 LiPo Battery              | 2   | Not Sure whether its allowed |
+| KeyCaps                          | 1   | 10.00      (AE)     |
+
+AE = AliExpress
