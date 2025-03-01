@@ -65,6 +65,7 @@ Display Cover:
 | M2 4mm screws                    | 28  | 00.92/50   (AE)     |
 | 306080 LiPo Battery              | 2   | Not Sure whether its allowed (9.42/1pc) |
 | KeyCaps                          | 1   | 14.03      (AE)     |
+| Split Kit Socket Bundle          | 1   | 11.81  (mechboards) |
 
 AE = AliExpress
 
@@ -74,5 +75,6 @@ AE = AliExpress
 | DigiKey                          | 24.02/w shipping |
 | Mechmods                         | 19.90/w shipping |
 | JLCPCB                           | 08.89/w shipping |
+| Mechboards                       | 11.81/w shipping |
 | -------------------------------- | ----------- |
-| Total                            | 88.74 (103.57 with batteries) |
+| Total                            | 100.55 (115.38 with batteries) |
