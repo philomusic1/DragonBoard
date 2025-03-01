@@ -1,5 +1,5 @@
 Drill report for DragonBoard.kicad_pcb
-Created on 2025-03-01T14:59:21+0000
+Created on 2025-03-01T16:00:43+0000
 
 Copper Layer Stackup:
     =============================================================
@@ -10,7 +10,7 @@ Copper Layer Stackup:
 Drill file 'DragonBoard-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0.300mm  0.0118"  (510 holes)
+    T1  0.300mm  0.0118"  (517 holes)
     T2  0.750mm  0.0295"  (8 holes)
     T3  0.813mm  0.0320"  (53 holes)
     T4  1.000mm  0.0394"  (5 holes)
@@ -19,7 +19,7 @@ Drill file 'DragonBoard-PTH.drl' contains
     T7  2.200mm  0.0866"  (2 holes)
     T8  4.100mm  0.1614"  (5 holes)
 
-    Total plated holes count 587
+    Total plated holes count 594
 
 
 Drill file 'DragonBoard-NPTH.drl' contains
