@@ -65,7 +65,7 @@ Display Cover:
 | M2 4mm screws                    | 28  | 00.92/50   (AE)     |
 | 306080 LiPo Battery              | 2   | Not Sure whether its allowed (9.42/1pc) |
 | KeyCaps                          | 1   | 14.03      (AE)     |
-| Split Kit Socket Bundle          | 1   | 11.81  (mechboards) |
+| Socket Kit (4 Sockets, 50 Millmax, 2 oled sockets) | 1   | 11.81  (mechboards) |
 
 AE = AliExpress
 
